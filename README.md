@@ -1,4 +1,4 @@
-Sandbox for Travel Model Two.
+Docs for Bay Area UrbanSim.
 
 Starting point borrowed from the personal website of [Joshua Lande](https://github.com/joshualande/joshualande.github.io).
 
