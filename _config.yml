@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Travel Model Two
 tagline:          'Metropolitan Transportation Commission'
-url:              http://metropolitantransportationcommission.github.io/travel-model-two
-shorturl:         metropolitantransportationcommission.github.io/travel-model-two
+url:              http://oaklandanalytics.github.io/new_baus_docs
+shorturl:         oaklandanalytics.github.io/new_baus_docs
 
 author:
   name:           'David Ory'
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/MetropolitanTransportationCommission/travel-model-two/tree/gh-pages
+  repo:           https://github.com/oaklandanalytics/new_baus_docs/tree/gh-pages
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
