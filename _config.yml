@@ -9,7 +9,7 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Travel Model Two
+title:            UrbanSim
 tagline:          'Metropolitan Transportation Commission'
 url:              http://oaklandanalytics.github.io/new_baus_docs
 shorturl:         oaklandanalytics.github.io/new_baus_docs
