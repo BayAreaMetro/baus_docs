@@ -28,10 +28,9 @@ github:
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  Guide: 'guide/'
-  Process: 'process/'
-  Geographies: 'geographies/'
-  Papers: 'papers/'
+  Plan Bay Area 2040: 'pba2040/'
+  Input Data Preparation: 'input_data/'
+  Users Guide: 'users_guide/'
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
